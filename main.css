@@ -1,0 +1,16 @@
+body * {
+  color: #DDDBC7;
+}
+
+body {
+  background-color: #101010;
+  color: #DDDBC7;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+img {
+  max-width: 90%;
+  height: auto;
+  max-height: 90vh;
+}
