@@ -22,9 +22,19 @@ To create a development build:
 npm run build-dev
 ```
 
-## Running
+## Developing
 
-Open the file `builds/index.html` in your browser
+To local deploy:
+
+```sh
+npm run build-dev
+```
+
+To build and local deploy:
+
+```sh
+npm run start
+```
 
 ## Testing
 

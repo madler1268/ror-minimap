@@ -12,7 +12,9 @@
         "build-prod": "webpack --mode production",
         "test": "jest",
         "serve": "webpack serve --hot --mode development",
-        "start": "npm run build-dev && npm run serve"
+        "start": "npm run build-dev && npm run serve",
+        "serve-prod": "webpack serve --mode production",
+        "start-prod": "npm run build-prod && npm run serve-prod"
     },
     "devDependencies": {
         "@babel/core": "^7.23.5",
