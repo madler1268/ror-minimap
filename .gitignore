@@ -2,6 +2,7 @@
 .cache/
 coverage/
 build/*
+build/index.html
 !build/index.html
 node_modules/
 *.log
